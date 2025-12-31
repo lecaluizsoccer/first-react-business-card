@@ -58,7 +58,7 @@ button:focus-visible {
 
 
 .container {
-  max-width: 300px;
+  max-width: 400px;
   background-color: #213547;
   color: white;
   display: flex;
